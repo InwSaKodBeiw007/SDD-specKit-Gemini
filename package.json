@@ -1,0 +1,25 @@
+{
+  "name": "webboard-sdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InwSaKodBeiw007/SDD-specKit-Gemini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/InwSaKodBeiw007/SDD-specKit-Gemini/issues"
+  },
+  "homepage": "https://github.com/InwSaKodBeiw007/SDD-specKit-Gemini#readme",
+  "devDependencies": {
+    "eslint": "^9.36.0"
+  }
+}
